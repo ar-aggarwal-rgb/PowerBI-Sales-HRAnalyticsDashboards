@@ -11,12 +11,30 @@ HR Report
 ![Screenshot 2024-06-23 143016](https://github.com/ar-aggarwal-rgb/PowerBI-Sales-HRAnalyticsDashboards/assets/66841676/dcc42562-d579-4dda-b080-9b74f07aef79)
 
 ## Key Features
-- **YTD Sales Overview**: Summary of YTD total sales, average price, and cars sold, providing a quick snapshot of performance.
+### Sales Reports Tab
+- **Sales by Category**
+**Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
+**Visualization**: Stacked Bar Graph
 - **Weekly Sales Trend**: Visualization of YTD sales trend on a weekly basis, allowing stakeholders to identify patterns and seasonality.
 - **Sales by Body Style**: Graphical representation of YTD total sales categorized by different body styles (e.g., sedan, SUV, passenger).
 - **Sales by Colour**: Analysis of YTD sales distribution by car color, highlighting popular choices among customers.
 - **Monthly Growth**: Visualization depicting the month-over-month growth in sales, aiding in understanding sales trajectory.
 - **Company-wise Sales Trend**: Insights into YTD sales trends for individual companies or brands represented in the data.
+- Sales Reports Tab
+Sales by Category
+
+Categories: Performance, Recreational, Multi-Purpose, Electric, Luxury
+Visualization: Stacked Bar Graph
+Sales Growth
+
+Visualization: Clustered Column Chart
+Sales and Forecast
+
+Visualization: Line Chart
+Sales by Payment Method
+
+Payment Methods: PayPal, Debit Card, Credit Card, Bank Transfers
+Visualization: Donut Chart
 
 ## Tab 1: Sales Overview
 - **YTD Total Sales**: Total sales revenue generated year-to-date.
