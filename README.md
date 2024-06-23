@@ -13,8 +13,8 @@ HR Report
 ## Key Features
 ### Sales Reports Tab
 1. **Sales by Category**
-  **Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
-  **Visualization**: Stacked Bar Graph
+  - **Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
+  - **Visualization**: Stacked Bar Graph
 2. **Sales Growth**
   **Visualization**: Clustered Column Chart
 3. **Sales and Forecast**
