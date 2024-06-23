@@ -34,7 +34,6 @@ HR Report
 5. **Percentage of Employees Living Close or Far from the Office**
 6. **Q&A Section**: Interactive Q&A for custom queries.
 
-
 ## How to Use
 1. Clone or download the repository to your local machine.
 2. Open the Power BI file using Power BI Desktop.
@@ -43,57 +42,9 @@ HR Report
 - Use the interactive filters and slicers to drill down into specific data points.
 4. **Prerequisites**
 - **Power BI Desktop**: Ensure you have Power BI Desktop installed on your machine. You can download it [here](https://www.microsoft.com/en-in/power-platform/products/power-bi/desktop)
-4. Navigate between tabs to explore different aspects of the sales data.
-5. Utilize interactive filters and drill-down options to gain deeper insights.
-6. Customize and extend the dashboard as per your requirements.
+5. **Data Sources**
+- **Sales Data**: Sales data categorized by product type, payment method, and historical sales figures.
+- **HR Data**: Employee demographic data, job satisfaction surveys, and proximity to the office.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
-
-
-
-
-
-
-
-
-HR Reports Tab
-Average Age by Department
-
-Visualization: Area Chart
-Number of Males and Females Working
-
-Visualization: Pie Chart
-Average Job Satisfaction
-
-Visualization: Gauge
-Total Number of Employees
-
-Visualization: Matrix
-Percentage of Employees Living Close or Far from the Office
-
-Visualization: Waterfall Chart
-Additional Analysis
-
-Visualization: Funnel
-Q&A Section
-
-Interactive Q&A for custom queries
-How to Use
-Clone the Repository
-
-sh
-Copy code
-git clone https://github.com/yourusername/PowerBI-Sales-HR-Dashboard.git
-Open the Power BI File
-
-Open the Sales_HR_Dashboard.pbix file in Power BI Desktop.
-Explore the Dashboard
-
-Navigate between the Sales Reports and HR Reports tabs to explore various visualizations.
-Use the interactive filters and slicers to drill down into specific data points.
-Prerequisites
-Power BI Desktop: Ensure you have Power BI Desktop installed on your machine. You can download it here.
-Data Sources
-Sales Data: Sales data categorized by product type, payment method, and historical sales figures.
-HR Data: Employee demographic data, job satisfaction surveys, and proximity to the office.
