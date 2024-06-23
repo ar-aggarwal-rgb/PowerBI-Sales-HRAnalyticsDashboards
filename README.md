@@ -4,11 +4,11 @@
 This Power BI project provides an in-depth analysis of a company's sales and HR data through an interactive dashboard. The dashboard is divided into two main tabs: Sales Reports and HR Reports. Each tab contains various visualizations that offer insights into different aspects of the company's performance and workforce.
 
 ## Dashboard Preview
-Overview
+Sales Report
 ![Screenshot 2024-06-23 142858](https://github.com/ar-aggarwal-rgb/PowerBI-Sales-HRAnalyticsDashboards/assets/66841676/f6b4a60c-d397-41fa-a47a-23488ff9506a)
 
-Details
-![Screenshot 2024-03-17 150423](https://github.com/ar-aggarwal-rgb/PowerBI-CarSalesDashboard/assets/66841676/d3365d17-d1d0-4971-9dbe-e52785bd85c8)
+HR Report
+![Screenshot 2024-06-23 143016](https://github.com/ar-aggarwal-rgb/PowerBI-Sales-HRAnalyticsDashboards/assets/66841676/dcc42562-d579-4dda-b080-9b74f07aef79)
 
 ## Key Features
 - **YTD Sales Overview**: Summary of YTD total sales, average price, and cars sold, providing a quick snapshot of performance.
