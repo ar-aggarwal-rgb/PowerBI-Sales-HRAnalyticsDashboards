@@ -13,8 +13,8 @@ HR Report
 ## Key Features
 ### Sales Reports Tab
 - **Sales by Category**
-**Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
-**Visualization**: Stacked Bar Graph
+  **Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
+  **Visualization**: Stacked Bar Graph
 - **Weekly Sales Trend**: Visualization of YTD sales trend on a weekly basis, allowing stakeholders to identify patterns and seasonality.
 - **Sales by Body Style**: Graphical representation of YTD total sales categorized by different body styles (e.g., sedan, SUV, passenger).
 - **Sales by Colour**: Analysis of YTD sales distribution by car color, highlighting popular choices among customers.
