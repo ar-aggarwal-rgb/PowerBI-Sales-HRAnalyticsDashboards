@@ -12,14 +12,14 @@ HR Report
 
 ## Key Features
 ### Sales Reports Tab
-- **Sales by Category**
+1. **Sales by Category**
   **Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
   **Visualization**: Stacked Bar Graph
-- **Sales Growth**
+2. **Sales Growth**
   **Visualization**: Clustered Column Chart
-- **Sales and Forecast**
+3. **Sales and Forecast**
   **Visualization**: Line Chart
-- **Sales by Payment Method**
+4. **Sales by Payment Method**
   **Payment Methods**: PayPal, Debit Card, Credit Card, Bank Transfers
   **Visualization**: Donut Chart
 
