@@ -1,4 +1,4 @@
-# Car Company Sales Dashboard - Power BI Project
+# Sales & HR Analytics Dashboard - Power BI Project
 
 ## Overview
 This Power BI project provides an in-depth analysis of a company's sales and HR data through an interactive dashboard. The dashboard is divided into two main tabs: Sales Reports and HR Reports. Each tab contains various visualizations that offer insights into different aspects of the company's performance and workforce.
@@ -15,24 +15,33 @@ HR Report
   - **Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
   - **Visualization**: Stacked Bar Graph
 2. **Sales Growth**
+  - **Quarters**: 1,2,3,4
   - **Visualization**: Clustered Column Chart
 3. **Sales and Forecast**
   - **Visualization**: Line Chart
 4. **Sales by Payment Method**
   - **Payment Methods**: PayPal, Debit Card, Credit Card, Bank Transfers
   - **Visualization**: Donut Chart
+5. **Top Distributors**
+  - **Visualization**: Clustered Column Chart
 
 ## Tab 2: HR Reports
 1. **Average Age by Department**
+   - **Categories**: Fianance, Sales, Marketing, Manufacturing, R&D
    - **Visualization**: Area Chart
-2. **Number of Males and Females Working**
-   - **Visualization**: Pie Chart
-3. **Average Job Satisfaction**
-   - **Visualization**: Gauge
-4. **Total Number of Employees**
+2. **Job Satisfaction by Experience**
    - **Visualization**: Matrix
-5. **Percentage of Employees Living Close or Far from the Office**
-6. **Q&A Section**: Interactive Q&A for custom queries.
+3. **Number of Males and Females Working**
+   - **Visualization**: Pie Chart
+4. **Average Job Satisfaction**
+   - **Visualization**: Gauge
+5. **Total Number of Employees**
+6. **Percentage of Employees Living Close or Far from the Office**
+7. **Q&A Section**: Interactive Q&A for custom queries.
+8. **Employees by Education**
+   - **Visualization**: Waterfall Chart
+9. **Promotion Status**
+   - **Visualization**: Funnel
 
 ## How to Use
 1. Clone or download the repository to your local machine.
