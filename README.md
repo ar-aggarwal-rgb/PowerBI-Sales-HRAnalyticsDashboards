@@ -10,41 +10,39 @@ Sales Report
 HR Report
 ![Screenshot 2024-06-23 143016](https://github.com/ar-aggarwal-rgb/PowerBI-Sales-HRAnalyticsDashboards/assets/66841676/dcc42562-d579-4dda-b080-9b74f07aef79)
 
-## Key Features
-### Sales Reports Tab
+## Tab 1: Sales Reports
 1. **Sales by Category**
   - **Categories**: Performance, Recreational, Multi-Purpose, Electric, Luxury
   - **Visualization**: Stacked Bar Graph
 2. **Sales Growth**
-  **Visualization**: Clustered Column Chart
+  - **Visualization**: Clustered Column Chart
 3. **Sales and Forecast**
-  **Visualization**: Line Chart
+  - **Visualization**: Line Chart
 4. **Sales by Payment Method**
-  **Payment Methods**: PayPal, Debit Card, Credit Card, Bank Transfers
-  **Visualization**: Donut Chart
+  - **Payment Methods**: PayPal, Debit Card, Credit Card, Bank Transfers
+  - **Visualization**: Donut Chart
 
-## Tab 1: Sales Overview
-- **YTD Total Sales**: Total sales revenue generated year-to-date.
-- **YTD Average Price**: Average selling price of cars sold during the year.
-- **YTD Cars Sold**: Total number of cars sold year-to-date.
-- **Weekly Sales Trend**: Area chart illustrating the weekly sales trend throughout the year.
-- **Total Sales by Body Style**: Donut chart representing YTD total sales categorized by different body styles.
-- **Sales by Colour**: Donut chart displaying the distribution of YTD sales by car color.
-- **Monthly Growth**: Area chart showing the month-over-month growth in sales.
+## Tab 2: HR Reports
+1. **Average Age by Department**
+   - **Visualization**: Area Chart
+2. **Number of Males and Females Working**
+   - **Visualization**: Pie Chart
+3. **Average Job Satisfaction**
+   - **Visualization**: Gauge
+4. **Total Number of Employees**
+   - **Visualization**: Matrix
+5. **Percentage of Employees Living Close or Far from the Office**
+6. **Q&A Section**: Interactive Q&A for custom queries.
 
-## Tab 2: Sales Detail Table
-- **Car_id**: Unique ID of every car.
-- **Date**: Date of sale.
-- **Dealer Name**: Dealer who made the sale.
-- **Company**: Company or brand of the car.
-- **Colour**: Colour of the car.
-- **Model**: Model of the car sold.
-- **Total Sales**: Price at which the car was sold.
 
 ## How to Use
 1. Clone or download the repository to your local machine.
 2. Open the Power BI file using Power BI Desktop.
-3. Ensure that the necessary data connections are configured or adjust them as needed.
+3. **Explore the Dashboard**
+- Navigate between the Sales Reports and HR Reports tabs to explore various visualizations.
+- Use the interactive filters and slicers to drill down into specific data points.
+4. **Prerequisites**
+- **Power BI Desktop**: Ensure you have Power BI Desktop installed on your machine. You can download it [here](https://www.microsoft.com/en-in/power-platform/products/power-bi/desktop)
 4. Navigate between tabs to explore different aspects of the sales data.
 5. Utilize interactive filters and drill-down options to gain deeper insights.
 6. Customize and extend the dashboard as per your requirements.
@@ -58,22 +56,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 
 
-Features
-Sales Reports Tab
-Sales by Category
 
-Categories: Performance, Recreational, Multi-Purpose, Electric, Luxury
-Visualization: Stacked Bar Graph
-Sales Growth
-
-Visualization: Clustered Column Chart
-Sales and Forecast
-
-Visualization: Line Chart
-Sales by Payment Method
-
-Payment Methods: PayPal, Debit Card, Credit Card, Bank Transfers
-Visualization: Donut Chart
 HR Reports Tab
 Average Age by Department
 
