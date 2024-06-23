@@ -5,7 +5,7 @@ This Power BI project provides an in-depth analysis of a company's sales and HR 
 
 ## Dashboard Preview
 Overview
-![Screenshot 2024-03-17 150403](https://github.com/ar-aggarwal-rgb/PowerBI-CarSalesDashboard/assets/66841676/b5124d0f-bcac-40b8-a026-c3fa8604970c)
+![Screenshot 2024-06-23 142858](https://github.com/ar-aggarwal-rgb/PowerBI-Sales-HRAnalyticsDashboards/assets/66841676/f6b4a60c-d397-41fa-a47a-23488ff9506a)
 
 Details
 ![Screenshot 2024-03-17 150423](https://github.com/ar-aggarwal-rgb/PowerBI-CarSalesDashboard/assets/66841676/d3365d17-d1d0-4971-9dbe-e52785bd85c8)
